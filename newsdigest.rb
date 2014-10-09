@@ -1,4 +1,4 @@
-require_relative 'scarper.rb'
+require_relative 'scarpers.rb'
 
 newsfound = Scarper::NewsLens.getNews
 
