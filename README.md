@@ -10,4 +10,3 @@ It can let users to discuss the news and make comments.
 
 
 =======
->>>>>>> 6f685edf7993b9d71b56706ba0270f933f22500e
